@@ -50,11 +50,13 @@ END AS 'Category'
 FROM Mobile_Sales
 
 ```
-## Viization
+## Visualization
 ### Pivot table 
 <img width="1309" height="467" alt="mobile_sales (2) - Excel 9_19_2025 1_32_54 PM" src="https://github.com/user-attachments/assets/967a17fc-882c-4eb7-8615-13211fe02a53" />
 
-### Charts
+### PowerBI Dashboard
+<img width="959" height="547" alt="dashboard assignment august 13 pdf - Profile 1 - Microsoft​ Edge 8_14_2025 2_22_25 AM" src="https://github.com/user-attachments/assets/d15557bf-d210-433f-aa25-97fdcc9f5d25" />
+
 
 
  
