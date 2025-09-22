@@ -50,7 +50,8 @@ END AS 'Category'
 FROM Mobile_Sales
 
 ```
-
+## Visualization
+### Pivot table
 
 
  
