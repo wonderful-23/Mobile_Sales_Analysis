@@ -28,6 +28,29 @@ www.kaggle.com/dataset
 |4f87d114-f522-4ead-93e3-f336402df6aa|	4/5/2024|	right|	Thomas-Thompson|	1010.34|	64|	2378.82|	55|	Female|	East Linda|	Credit Card|
 |6750b7d6-dcc5-48c5-a76a-b6fc9d540fe1|	2/13/2024|	summer|	Sanchez-Williams|	400.8|	95|	31322.56|	57|	Male|	East Angelicastad|	Online|
 
+## Query Language: (SQL)
+Some of the query language to retrieve records are displayed here.
+
+```SQL
+---calculate the TotalRevenue by Price---
+SELECT PaymentMethod, SUM(Price) AS TotalRevenue
+fROM Mobile_Sales
+GROUP BY PaymentMethod
+ORDER BY TotalRevenue DESC;
+```
+
+```SQL
+---categorise the data into gold,ilver and diamond---
+SELECT*,
+CASE
+WHEN Price < 500 THEN 'Silver'
+WHEN Price BETWEEN 500 AND 1000 THEN 'Gold'
+ELSE 'Diamond'
+END AS 'Category'
+FROM Mobile_Sales
+
+```
+
 
 
  
