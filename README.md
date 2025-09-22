@@ -50,8 +50,11 @@ END AS 'Category'
 FROM Mobile_Sales
 
 ```
-## Visualization
-### Pivot table
+## Viization
+### Pivot table 
+<img width="1309" height="467" alt="mobile_sales (2) - Excel 9_19_2025 1_32_54 PM" src="https://github.com/user-attachments/assets/967a17fc-882c-4eb7-8615-13211fe02a53" />
+
+### Charts
 
 
  
