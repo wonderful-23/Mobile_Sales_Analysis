@@ -60,3 +60,5 @@ FROM Mobile_Sales
 
 ### link to chart
 [link to profilling](https://ibb.co/fGxx0Rdm)
+
+[view my linkedIn profile](www.linkedin.com/in/wonderful-ajiboye)
