@@ -5,7 +5,7 @@
 ---
 
 ## Contents
-+ [Project Overview](#Project-Overview)/
++ [Project Overview](#Project-Overview)|
 + [Data Source](#Data-Source)/
 + [Tools Used](#Tools-Used)/
 + [Table Outlay](#Table-Outlay)/
