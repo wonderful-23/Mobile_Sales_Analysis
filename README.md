@@ -6,7 +6,7 @@
 
 ## Contents
 + [Project Overview](#Project-Overview)
-/[Data Source](#Data-Source)/[Tools Used](#Tools-Used)/[Table Outlay](#Table-Outlay)/[Query Language: (SQL)](#Query-Language:-(SQL))/[Visualization](#Visualization)
+/[Data Source](#Data-Source)/[Tools Used](#Tools-Used)/[Table Outlay](#Table-Outlay)/[Query Language: (SQL)](#Query-Language:SQL)/[Visualization](#Visualization)
 
 ---
 ## Project Overview:
