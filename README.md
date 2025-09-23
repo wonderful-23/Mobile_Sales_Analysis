@@ -55,8 +55,8 @@ FROM Mobile_Sales
 <img width="1309" height="467" alt="mobile_sales (2) - Excel 9_19_2025 1_32_54 PM" src="https://github.com/user-attachments/assets/967a17fc-882c-4eb7-8615-13211fe02a53" />
 
 ### PowerBI Dashboard
-<img width="959" height="547" alt="dashboard assignment august 13 pdf - Profile 1 - Microsoft​ Edge 8_14_2025 2_22_25 AM" src="https://github.com/user-attachments/assets/d15557bf-d210-433f-aa25-97fdcc9f5d25" />
-
-
-
  
+<img width="1029" height="595" alt="powerbi_august_13 (1) pdf - Profile 1 - Microsoft​ Edge 9_23_2025 2_32_37 PM" src="https://github.com/user-attachments/assets/74399123-f945-4d41-a581-f8ac68dbbda4" />
+
+### link to chart
+[link to profilling](https://ibb.co/fGxx0Rdm)
